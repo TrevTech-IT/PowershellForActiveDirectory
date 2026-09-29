@@ -4,8 +4,8 @@
 > Every script mirrors a GUI demo from the video — same steps, just automated.  
 > Copy, paste, swap the domain name, and follow along.
 
-📺 **EP1 — Active Directory From Scratch** → [youtube.com/c/TrevTech-IT](#) *(link coming soon)*  
-📺 **EP2 — PowerShell for AD** → [youtube.com/c/TrevTech-IT](#) *(link coming soon)*  
+📺 **EP1 — Active Directory From Scratch** → [[youtube.com/c/TrevTech-IT](#) *(link coming soon)* ](https://youtu.be/3pP0SaSrgSU) 
+📺 **EP2 — PowerShell for AD** → [[youtube.com/c/TrevTech-IT](#) *(link coming soon)*  ](https://youtu.be/zZlJHOzdvDY)
 🌐 **Blog** → [trevtech.blog](https://trevtech.blog)
 
 ---
